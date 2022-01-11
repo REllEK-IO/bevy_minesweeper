@@ -1,1 +1,3 @@
 # bevy_minesweeper
+
+init
